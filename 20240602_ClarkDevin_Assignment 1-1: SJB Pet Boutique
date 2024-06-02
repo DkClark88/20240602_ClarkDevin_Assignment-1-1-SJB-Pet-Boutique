@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!--
+    Filename: sjbpet.xml
+    Author: Devin Clark
+    Date: 5/24/2022
+-->
+
+<?xml-stylesheet type="text/css" href="resale.css"?>
+
+<ResaleProducts xmlns="http://example.com/sjbpetboutique/resale">
+    <Title>Resale Products</Title>
+    <Subtitle>Latest Offerings</Subtitle>
+    <Products>
+        <Product>
+            <Description>8" Hamster Travel Cage</Description>
+            <Condition>Good</Condition>
+            <Price>
+                <OriginalPrice>$35</OriginalPrice>
+                <SalePrice>$15</SalePrice>
+            </Price>
+            <Commission>15%</Commission>
+        </Product>
+        <Product>
+            <Description>Dog and Cat Doorstop</Description>
+            <Condition>Excellent</Condition>
+            <Price>
+                <OriginalPrice>$70</OriginalPrice>
+                <SalePrice>$20</SalePrice>
+            </Price>
+            <Commission>10%</Commission>
+        </Product>
+        <Product>
+            <Description>Puppy Dog Rhinestone Collar</Description>
+            <Condition>Excellent</Condition>
+            <Price>
+                <OriginalPrice>$25</OriginalPrice>
+                <SalePrice>$10</SalePrice>
+            </Price>
+            <Commission>15%</Commission>
+        </Product>
+        <Product>
+            <Description>30" Kitty Travel Cage</Description>
+            <Condition>New</Condition>
+            <Price>
+                <OriginalPrice>$40</OriginalPrice>
+                <SalePrice>$35</SalePrice>
+            </Price>
+            <Commission>20%</Commission>
+        </Product>
+    </Products>
+    <Message><![CDATA[
+        Interested in resale? The SJB Pet Boutique will publish for resale select items purchased
+        at our store that you or your owner have outgrown. All sales are "as-is" 
+        condition. A commission is charged for listing the item for resale. If your resale item
+        is sold and you purchase a new item at our store using the money from the sale of the item, 
+        you can save 50% off our commission price! &#9786;
+    ]]></Message>
+</ResaleProducts>
